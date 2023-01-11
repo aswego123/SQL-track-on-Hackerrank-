@@ -13,6 +13,8 @@ decimal places.
 
 Input Format
 
+MEDIAN FUNCTION DEFINED IN ORACLE SERVER.
+
 The STATION table is described as follows:
 */
 
